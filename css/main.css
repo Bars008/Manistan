@@ -19,7 +19,6 @@
  * 10. features section
  * 11. pricing section
  * 12. testimomials section 
- * 13. faq section 
  *	14. ad-section 
  *	15. call-to-action section
  *	16. footer
@@ -1980,49 +1979,6 @@ a.menu-toggle {
 	}
 	#testimonial-slider p {
 		font-size: 1.8rem;
-	}
-}
-
-
-/** 
- * ===================================================================
- * faq section
- *
- * ------------------------------------------------------------------- 
- */
-
-#faq {
-	background: #EAEAED;
-	padding-top: 12rem;
-	padding-bottom: 12rem;
-}
-.faq-content {
-	margin-top: 5.4rem;
-	max-width: 1020px;
-}
-.faq-content .bgrid {
-	padding: 0 30px;
-}
-
-/**
- * responsive:
- * faq
- * -
- */
-
-@media only screen and (max-width:768px) {
-	.faq-content {
-		max-width: 650px;
-	}
-}
-@media only screen and (max-width:480px) {
-	.faq-content .bgrid {
-		padding: 0 20px;
-	}
-}
-@media only screen and (max-width:400px) {
-	.faq-content .bgrid {
-		padding: 0;
 	}
 }
 
