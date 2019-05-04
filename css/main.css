@@ -502,7 +502,6 @@ select {
 	padding: 1.5rem 2rem;
 	border: 0;
 	outline: none;
-	vertical-align: middle;
 	color: #737373;
 	font-family: "merriweather-regular", sans-serif;
 	font-size: 1.5rem;
@@ -1835,7 +1834,6 @@ a.menu-toggle {
 	margin: 0 auto 1.2rem auto;
 	display: block;
 	border-radius: 50%;
-	vertical-align: middle;
 	border: 9px solid #EAEAED;
 }
 #testimonial-slider .testimonial-author .author-info {
